@@ -23,6 +23,7 @@
 
 Contanto do desenvolvedor(a):
 '''
+Natália C. Frazão
 natalia.frazao@estudante.ifb.edu.br
 '''
 
